@@ -7,8 +7,8 @@ public class Week8 {
      //printExercise1();
      //printExercise2();
      //printExercise3();
-	   //printAddNumber();
-	   printAddNumbers2();
+	 //printAddNumber();
+	  printAddNumbers2();
 
 	}
 	
