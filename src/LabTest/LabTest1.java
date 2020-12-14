@@ -5,10 +5,8 @@ public final class LabTest1 {
 	public static void main(String[] args) {
 		
 		
-		//printQuestion1();
+		printQuestion1();
 		printQuestion2();
-		
-		
 		
 		
 	}
