@@ -15,7 +15,7 @@ public class Assignment1 {
 		
 		System.out.println("*****WELCOME TO AMMAR BANK*****");
 		System.out.println("\nEnter Name: ");
-		name = sc.next();
+		name = sc.nextLine();
 		System.out.println("Enter Age: ");
 		age = sc.nextInt();
 		System.out.println("Enter IC number:");
