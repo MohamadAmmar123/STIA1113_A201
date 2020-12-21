@@ -42,7 +42,7 @@ public class Assignment1 {
 		System.out.println("Your yearly balance : RM " +yearbalance);
 		System.out.println("\n*Thank You For Using Our Service.*");
 		
-		
+		sc.close();
 
 	}
 
