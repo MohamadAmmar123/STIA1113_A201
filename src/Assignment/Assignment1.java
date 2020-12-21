@@ -26,7 +26,7 @@ public class Assignment1 {
 		
 		System.out.print("\nEnter Current Saving Account: RM ");
 		balance = sc.nextInt();
-		System.out.println("Intrest rate for this Bank is 3.0% per year");
+		System.out.println("Intrest rate for this Bank is 2.0% per year");
 		
 		intrest = balance * 0.02 ;
 		yearbalance = balance + intrest ;
